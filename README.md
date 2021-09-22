@@ -1,14 +1,7 @@
 <p align="center">
-  <img width="460" height="300" alt="logo of KeyExpose" src="https://raw.githubusercontent.com/momenbasel/keyFinder/master/css/icon.png">
+  <img width="460" height="300" alt="logo of KeyExpose" src="https://github.com/smifrahim/KeyExpose/blob/main/icon.png">
 </p>
 <hr></hr>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Chrome-red.svg"/>
-<img src="https://img.shields.io/github/license/momenbasel/keyFinder"/>
-<img src="https://img.shields.io/github/downloads/momenbasel/keyFinder/total.svg"/>
-<img src="https://img.shields.io/badge/demo-youtube-blue.svg"/>
-</p>
 
 # What is KeyExpose?
 KeyExpose is chrome extension that searches the DOM for any embedded script link, as script tag may contain keys for specific API(such as Google maps API) and you can add keywords to search for it at any website you visit.
